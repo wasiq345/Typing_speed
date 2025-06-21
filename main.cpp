@@ -3,7 +3,7 @@
 #include<vector>
 using namespace std;
 
-class TypingSpeed
+class Typing_Speed
 {
     vector<string> word;
     string SelectedWord;
